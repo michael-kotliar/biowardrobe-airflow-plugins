@@ -183,7 +183,7 @@ $namespaces:
   s: http://schema.org/
 
 $schemas:
-- http://schema.org/docs/schema_org_rdfa.html
+- https://schema.org/version/latest/schema.rdf
 
 s:name: "plot-rna"
 s:downloadUrl: https://raw.githubusercontent.com/michael-kotliar/biowardrobe-airflow-plugins/cwls/plot-rna.cwl
